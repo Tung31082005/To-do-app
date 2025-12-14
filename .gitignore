@@ -1,0 +1,34 @@
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/debug.keystore
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+
+# Web
+web/.dart_tool/
+web/build/
+
+# Windows
+windows/flutter/ephemeral/
+
+# MacOS
+macos/Flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# IDE
+.vscode/
+.idea/
+*.iml
